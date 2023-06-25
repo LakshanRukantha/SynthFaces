@@ -1,0 +1,1 @@
+print("SynthFaces: Synthetic Face Image Generation Using Generative Adversarial Networks (GANs)")
